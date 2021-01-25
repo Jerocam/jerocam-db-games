@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jerocam-db-games/static/css/main.1fb55427.chunk.css",
+    "main.js": "/jerocam-db-games/static/js/main.7804cc8d.chunk.js",
+    "main.js.map": "/jerocam-db-games/static/js/main.7804cc8d.chunk.js.map",
+    "runtime-main.js": "/jerocam-db-games/static/js/runtime-main.6f07e792.js",
+    "runtime-main.js.map": "/jerocam-db-games/static/js/runtime-main.6f07e792.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/jerocam-db-games/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.cf058f45.chunk.js": "/jerocam-db-games/static/js/2.cf058f45.chunk.js",
+    "static/js/2.cf058f45.chunk.js.map": "/jerocam-db-games/static/js/2.cf058f45.chunk.js.map",
+    "static/js/3.11427789.chunk.js": "/jerocam-db-games/static/js/3.11427789.chunk.js",
+    "static/js/3.11427789.chunk.js.map": "/jerocam-db-games/static/js/3.11427789.chunk.js.map",
+    "index.html": "/jerocam-db-games/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/jerocam-db-games/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.1fb55427.chunk.css.map": "/jerocam-db-games/static/css/main.1fb55427.chunk.css.map",
+    "static/js/2.cf058f45.chunk.js.LICENSE.txt": "/jerocam-db-games/static/js/2.cf058f45.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jerocam-db-games/static/media/sun2.b242ca14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f07e792.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.cf058f45.chunk.js",
+    "static/css/main.1fb55427.chunk.css",
+    "static/js/main.7804cc8d.chunk.js"
+  ]
+}
